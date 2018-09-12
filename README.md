@@ -2,7 +2,7 @@
 
 ```bash
 npm install tslint --save-dev
-npm install git+ssh://github.com/d-y-innovations/tslint-rules.git --save-dev
+npm install git+https://github.com/d-y-innovations/tslint-rules.git --save-dev
 ```
 
 在项目目录建立tslint.json
