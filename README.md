@@ -15,7 +15,7 @@ rules可以覆盖在extends中引入的规则集合，为开发提供临时便�
     "defaultSeverity": "error",
     "extends": [
         // "tslint:recommended"
-        "d-y-innovations/tslint-rules"
+        "tslint-rules"
     ],
     "jsRules": {},
     "rules": {
